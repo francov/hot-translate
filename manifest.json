@@ -1,10 +1,10 @@
 {
   "manifest_version": 2,
-  "name": "hot-translate2",
-  "description": "Hot Translate is a simple translation addon.\nJust set language in preferences, select some text, press ALT+Q and you will see a notification window, with translated text. You can also select text and click on addon button. In that case, new tab with Yandex.Translate will be opened.\nThe list of supported languages is pretty long, because this addon uses Yandex.Translate API, as you can see.\nHope you will enjoy it ;)",
-  "author": "Oleg Senin (RealFatCat)",
-  "version": "0.6",
-  "homepage_url": "https://github.com/RealFatCat/hot-translate",
+  "name": "hot-translate",
+  "description": "Hot Translate is a simple translation addon.\nJust set language in preferences, select some text, press ALT+Q and you will see a notification window, with translated text. You can also select text and click on addon button. In that case, new tab with Yandex.Translate will be opened.\nThe list of supported languages is pretty long, because this addon uses Yandex.Translate API, as you can see.\n",
+  "author": "Francesco Valente (francov)",
+  "version": "1.0",
+  "homepage_url": "https://github.com/francov/hot-translate",
   "icons": {
     "64": "data/icon-64.png"
   },
